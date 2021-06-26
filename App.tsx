@@ -4,7 +4,10 @@ import { View, Text } from 'react-native';
 export default function App(){
   return(
     <View>
-      <Text> Diego Antoniança da Silva </Text>
+      <Text> Diego </Text>
+      <Text> Antoniança </Text>
+      <Text> da Silva </Text>
+    
     </View>
   );
 }

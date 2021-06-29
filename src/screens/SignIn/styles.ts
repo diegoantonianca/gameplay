@@ -9,6 +9,6 @@ export const styles = StyleSheet.create({
     input: {
         height: 50,
         width: 200,
-        borderBottomWidth:3
+        borderBottomWidth:2
     }
 });

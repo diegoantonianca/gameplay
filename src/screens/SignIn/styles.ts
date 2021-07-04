@@ -13,5 +13,14 @@ export const styles = StyleSheet.create({
         borderBottomWidth:2,
         padding: 10,
         borderBottomColor: 'lime',
+    },
+    image: {
+
+    },
+    content: {
+
+    },
+    title: {
+        
     }
 }); 
